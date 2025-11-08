@@ -1,6 +1,9 @@
-* 2661d58 (HEAD -> main) Task 2.4: Clean totals; simple loop; inline temps
+* 5834271 (HEAD -> main) Task 2.3: Replace inline frmt with usd() helper
+* f0e94fc Task 2.4: Extract getTotalAmount() and getTotalVolumeCredits()
+* ba6e56d (origin/main, origin/HEAD) Update log.txt with history
+* 2661d58 Task 2.4: Clean totals; simple loop; inline temps
 * 92cbc10 Task 2.2: Extract getVolumeCredits()
 * c3e5bf3 Task 2.1: Extract getAmount() and getPlay()
 * feb3aa2 Task 1.2: Updated log.txt
 * 5a63b32 Task 1.1: Encapsulation, constants, style fixes
-* 2b7cbe9 (origin/main, origin/HEAD) Initial commit
+* 2b7cbe9 Initial commit
