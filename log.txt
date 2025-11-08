@@ -1,0 +1,6 @@
+* 2661d58 (HEAD -> main) Task 2.4: Clean totals; simple loop; inline temps
+* 92cbc10 Task 2.2: Extract getVolumeCredits()
+* c3e5bf3 Task 2.1: Extract getAmount() and getPlay()
+* feb3aa2 Task 1.2: Updated log.txt
+* 5a63b32 Task 1.1: Encapsulation, constants, style fixes
+* 2b7cbe9 (origin/main, origin/HEAD) Initial commit
